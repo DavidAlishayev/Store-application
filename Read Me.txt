@@ -1,17 +1,15 @@
-step 1: import project in any IDE 
-e.g intellij...
+step 1: import project in intellij
 
 step 2:
 create local server...
-using xampp or wampp
+using xampp 
 go to http://localhost:80/phpmyadmin
-create db named store then go to store....
+create db named store then go to store
 import the file given in directory
 
 step 3: 
-go to GUI_MAIN.java and run...
-
-step 4: 
+go to GUI_MAIN.java and run
+ 
 test :
 for customer : 
 email : user1@gmail.com pass: user123
